@@ -1,0 +1,34 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.st-ef {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #ff0000;  
+    text-align: center; 
+}
+
+h2 {
+    color: #ff0000; 
+}
+h3 {
+    color: #ff0000;  
+}
+.css-1l02zno {
+    color: #ff0000; 
+}
+img {
+    max-width: 80%px; 
+    height: 300px;   
+}
+
+
+
+
